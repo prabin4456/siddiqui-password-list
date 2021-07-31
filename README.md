@@ -1,4 +1,4 @@
-#(Password Siddiqui list)
+#Password-Siddiqui-list
 
 echo "# siddiqui-password-list" >> README.md
 git init
