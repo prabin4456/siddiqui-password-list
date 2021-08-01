@@ -1,9 +1,7 @@
-# siddiqui-password-list
+# Siddiqui-Password
 
 
 (Only for education parpas not a eligal Activity)
-
-# Siddiqui Password
 
 # password list link👇
 
